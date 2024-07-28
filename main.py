@@ -1,5 +1,4 @@
-# coding: utf8
-from urllib.request import urlopen 
+from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
 
